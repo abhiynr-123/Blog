@@ -1,0 +1,258 @@
+main{
+    width: 68%;
+    display:inline-block;
+    vertical-align: top;
+    margin-left: 12px;
+}
+aside h3{
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+aside input{
+    display: block;
+    border: 2px solid black;
+}
+aside label{
+    display: block;
+}
+#sub{
+    margin-top: 2px;
+    background-color: black;
+    color: blanchedalmond;
+    text-transform: uppercase;
+    padding: 2px;
+}
+aside{
+    margin-top: 40px;
+    border-top: 4px solid black;
+    display: inline-block;
+    width: 19%;
+    position: relative;
+    left: -40px;
+}
+#wid{
+    width: 12%;
+    display: inline-block;
+    text-transform: capitalize;
+    font-weight: bold;
+    background-color: rgb(124 140 140);
+    border: 6px solid rgb(39 33 33);
+    border-radius: 9px;
+    margin-right: 22px;
+    position: relative;
+    left: 84px;
+}
+    
+
+
+main p{
+    font-size: medium;
+    font-weight: 600;
+    font-size: 999;
+}
+main h3{
+    color:black;
+    text-transform: uppercase;
+}
+#tip{
+    text-align:center;
+    text-transform: inherit;
+    font-weight: 900;
+    font-size: xxx-large;
+}
+#tip:hover{
+    color: rgb(126, 179, 170);
+}
+#art{
+    position: relative;
+    left: 197px;
+    top: -135px;
+    width: 640px;
+
+}
+#upperaside{
+    border-bottom: 4px solid black;
+    line-height: 30px;
+}
+#search{
+    margin-top: 30px;
+    border-bottom: 4px solid black;
+    margin-bottom: 30px;
+}
+#iconsrc{
+    background-color: black;
+    color: blanchedalmond;
+    height: 24px;
+    width: 24px;
+    box-sizing:content-box;
+    border: 2px solid black;
+    margin-top: -2px;
+    margin-left: -7px;
+    margin-right: -7px;
+    margin-bottom: -5px;
+    line-height: 40px;
+}
+#sub:hover{
+    color:rgb(20, 155, 209);
+}
+#iconsrc:hover{
+    color:rgb(20, 155, 209);
+}
+#name{
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: inherit;
+    margin-left: 254px;
+    background-color: blanchedalmond;
+}
+#blogimg{
+    height: 228px;
+    width: 231px;
+    border-left-width: 15px;
+    border-left-color: black;
+    border-left-style: solid;
+    margin-bottom: -3px;
+    background-color: antiquewhite;
+    margin-left: 96px;
+    padding-left: 13px;
+    border-right-width: 15px;
+    border-right-style: solid;
+    border-right-color: black;
+    padding-right: 13px;
+    padding-top: 1px;
+}
+#img2{
+    background-color: cornflowerblue;
+    height: 420px;
+    width: 1020px;
+    margin-left: 96px;
+    border-style: solid;
+    border-width: 9px;
+    border-color: black;
+
+}
+#subs:hover{
+    color: darkgoldenrod;
+}
+#art p{
+    text-transform: inherit;
+    font-size:larger;
+
+}
+#navc{
+    text-decoration: none;
+    margin-left: 865px;
+    font-size: 21px;
+    color:white;
+    background-color: black;
+    box-sizing: border-box;
+    
+    
+}
+#cmtsection{
+    line-height: 27px;
+    font-size: 19px;
+    border-bottom: 4px solid black;
+}
+#cmt:hover{
+    color: darkgoldenrod;
+}
+#lstcmt{
+    color: rgb(197, 104, 29);
+}
+#li1{
+    text-decoration: none;
+    font-size : 20px;
+}
+#li2{
+    text-decoration: none;
+    font-size : 20px;
+}
+#li3{
+    text-decoration: none;
+    font-size : 20px;
+}
+#li4{
+    text-decoration: none;
+    font-size : 20px;
+}
+#li1:hover{
+    color:black;
+}
+#li2:hover{
+    color:black;
+}
+#li3:hover{
+    color:black;
+}
+#li4:hover{
+    color:black;
+}
+#cl1:hover{
+    color: crimson;
+}
+#cl2:hover{
+    color: crimson;
+}
+#cl3:hover{
+    color: crimson;
+}
+#cl4:hover{
+    color: crimson;
+}
+#socialimg{
+    position: relative;
+}
+#fab{
+    background-color: rgb(56, 56, 184);
+    position: fixed;
+    top:200px;
+    box-sizing:border-box; 
+    border: 2px solid black;
+    
+    margin-left: -10px;
+}
+#lkd{
+    background-color: darkcyan;
+    position: fixed;
+    top: 269px;
+    box-sizing:border-box; 
+    border: 2px solid black;
+    margin-left: -10px;
+}
+#twt{
+    background-color: rgb(139, 189, 189);
+    position: fixed;
+    top: 338px;
+    box-sizing:border-box; 
+    border: 2px solid black;
+    margin-left: -10px;
+}
+#whap{
+    background-color: rgb(29, 172, 29);
+    position: fixed;
+    top: 407px;
+    box-sizing:border-box; 
+    border: 2px solid black;
+    margin-left: -10px;
+}
+#gml{
+    background-color: rgb(216, 79, 79);
+    position: fixed;
+    top: 476px;
+    box-sizing:border-box; 
+    border: 2px solid black;
+    margin-left: -10px;
+}
+#cmt{
+    text-transform: uppercase;
+
+}
+#gtp{
+    text-decoration: none ;
+    border: 2px solid black;
+    color: white;
+    background-color: black;
+    border-radius: 2px;
+}
